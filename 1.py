@@ -1,28 +1,10 @@
 from userbot.utils import admin_cmd 
- 
- 
- 
- 
-@borg.on(admin_cmd(pattern="1gm$")) 
- 
- 
- 
+ @borg.on(admin_cmd(pattern="1gm$")) 
 async def gn(event):
- 
- 
- 
-    await event.edit(" very good morning 🙂 to day are very beautiful day ❤️")
-
+ await event.edit(" very good morning 🙂 today are very beautiful day ❤️")
 @borg.on(admin_cmd(pattern="mk$")) 
- 
- 
- 
 async def gn(event):
- 
- 
- 
-    await event.edit(" hi brother🙂 what are you doing?")
-
+await event.edit(" hi brother🙂 what are you doing?")
 import asyncio
 
 @ultroid_cmd(pattern="jok")
@@ -67,3 +49,27 @@ async def naruto(ult):
  await ult.edit("☝️")
  await asyncio.sleep(1)
  await ult.edit("🤤")
+
+@ultroid_cmd(pattern="think")
+async def naruto(ult):
+await ult.edit("🤔")
+await asyncio.sleep(1)
+await ult.edit("🧐")
+await asyncio.sleep(1)
+await ult.edit("🧐🤔🧐🤔🧐🤔🧐🤔")
+await asyncio.sleep(1)
+await ult.edit("🤔🧐🤔🧐🤔🧐🤔🧐")
+await asyncio.sleep(1)
+await ult.edit("🧐🤔🧐🤔🧐🤔🧐🤔")
+await asyncio.sleep(1)
+await ult.edit("🤔🧐🤔🧐🤔🧐🤔🧐")
+await asyncio.sleep(1)
+await ult.edit("🧐🤔🧐🤔🧐🤔🧐🤔")
+await asyncio.sleep(1)
+await ult.edit("🤔🧐🤔🧐🤔🧐🤔🧐")
+await asyncio.sleep(1)
+await ult.edit("🧐🤔🧐🤔🧐🤔🧐🤔")
+await asyncio.sleep(1)
+await ult.edit("🤔🧐🤔🧐🤔🧐🤔🧐")
+await asyncio.sleep(1)
+await ult.edit("🤯")
